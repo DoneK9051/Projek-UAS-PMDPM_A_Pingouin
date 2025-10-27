@@ -184,7 +184,6 @@ with col2:
         st.info("Silakan unggah gambar di sebelah kiri untuk melihat hasil prediksi.")
 
 # === GRAFIK PROBABILITAS ===
-# (Tidak ada perubahan di sini)
 if prob is not None:
     st.divider()
     st.subheader("📊 Distribusi Probabilitas")
